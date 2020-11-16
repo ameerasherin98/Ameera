@@ -690,19 +690,19 @@ b, strong {
     .main-timeline .timeline:nth-child(even) .timeline-year{ left: 3px; }
     .main-timeline .timeline-edu{
       font-size: 20px;
-      line-height: 70px;
+      line-height: 50px;
       height: 50px;
       width: 120px;
       right: 3px;
-      top: 35px;
+      top: -65px;
   }
   .main-timeline .timeline-edu1{
     font-size: 20px;
-    line-height: 70px;
+    line-height: 50px;
     height: 50px;
     width: 120px;
     left: 3px;
-    top: 35px;
+    top: -65px;
 }
 }
 @media screen and (max-width:567px){
