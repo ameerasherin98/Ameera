@@ -13,9 +13,9 @@ body {
   padding-top: 70px;
 }
 
-.full-screen {
+/* .full-screen {
   padding: 8rem 0;
-}
+} */
 
 .small-text {
   color: #5b5b5b;
@@ -659,7 +659,7 @@ b, strong {
 .timeline:nth-child(4n+4) .timeline-year{
     background-color:#474559;
 }
-@media screen and (max-width:700px){
+@media screen and (max-width:900px){
     .main-timeline:before{ display: none; }
     .main-timeline .timeline{
         width: 100%;
